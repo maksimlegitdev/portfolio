@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA;EACE,sBAAsB;EACtB,UAAU;EACV,SAAS;EACT,SAAS,EAAA;;AAGX;EACE,YAAY,EAAA","file":"style.css","sourcesContent":["*, ::before, ::after {\r\n  box-sizing: border-box;\r\n  padding: 0;\r\n  border: 0;\r\n  margin: 0;\r\n}\r\n\r\nhtml, body {\r\n  height: 100%;\r\n}"]}
